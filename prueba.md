@@ -8,7 +8,7 @@
 <img src="pruebas/image/images.jpeg" alt= "8">
 <br>
 <br>
-<img src="https://github.com/stevenLopera/pruebas/blob/segunda_nueva_branca/image/images.jpeg" alt= "9">
+<img src="https://github.com/stevenLopera/pruebas/blob/segunda_nueva_branca/image/2_imagen_minio.jpeg" alt= "9">
 <br>
 
 
