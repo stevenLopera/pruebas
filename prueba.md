@@ -4,9 +4,12 @@
  ![Alt text  4](../image/images.jpeg?raw=true)
  ![Alt text  5](../image/images.jpeg?raw=true)
  ![Alt text  6](pruebas/image/images.jpeg?raw=true "Title")
+<br>
 <img src="pruebas/image/images.jpeg" alt= "8">
+<br>
+<br>
 <img src="../image/images.jpeg" alt= "9">
-
+<br>
 
 
 
